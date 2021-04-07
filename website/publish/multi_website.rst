@@ -1,6 +1,6 @@
-=====================
-Manage Multi Websites
-=====================
+========================
+Manage multiple websites
+========================
 
 .. image:: media/multi_website04.png
   :align: center
@@ -19,8 +19,6 @@ Setup
 
 To create a new website, go to :menuselection:`Website --> Configuration --> Settings`.
 The button, *Create a new website*, lays in the first section.
-
-
 
 .. image:: media/multi_website05.png
   :align: center
@@ -57,7 +55,6 @@ the menu of the current website.
 
 Switch from one website to another
 ==================================
-
 
 As easy as ABC! There is a website switcher in the right corner of the
 edit bar. Switching to another website will connect to the domain of
@@ -129,7 +126,6 @@ be redirected to the right website using GeoIP.
 Customize the visitor experience
 ================================
 
-
 The customer experience can be customized very profoundly thanks to the menu
 \*Customize\*. All the visual options available there are specific to
 each website. Go through the different pages to adapt them to this new
@@ -141,7 +137,6 @@ blogs, events, etc.) as the number of available options is higher there.
 
 Publish specific content per website
 ------------------------------------
-
 
 Like static pages, any content created from the front-end (product, blog
 post, etc.) is always only published in the current website. You can
@@ -172,7 +167,7 @@ websites*:
     When you create the record from the backend and publish it,
     typically a product or an event, it is made available in all websites.
 
-Publish a page in all websites
+Publish a page on all websites
 ------------------------------
 
 A new static page is created and only made available in the current
@@ -196,8 +191,8 @@ The original page still being linked to all websites.
 .. image:: media/multi_website10.png
   :align: center
 
-Multi-companies
-===============
+Multiple companies
+==================
 
 Each website can be linked to a specific company of your system, in a
 multi-companies environment.
@@ -219,8 +214,8 @@ is it for visitors.
 .. image:: media/multi_website02.png
   :align: center
 
-Configure your eCommerce website
-================================
+Configure eCommerce website
+===========================
 
 eCommerce is a crucial feature in the multi-websites environment. We made it
 so that the entire flow can be customized to fit the very audience of
